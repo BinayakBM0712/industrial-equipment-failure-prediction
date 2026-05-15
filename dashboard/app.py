@@ -18,10 +18,10 @@ st.set_page_config(
 # Load Saved Model
 # ======================================
 
-with open('../models/xgb_model.pkl', 'rb') as file:
+with open('models/xgb_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
-with open('../models/feature_columns.pkl', 'rb') as file:
+with open('models/feature_columns.pkl', 'rb') as file:
     feature_columns = pickle.load(file)
 
 
