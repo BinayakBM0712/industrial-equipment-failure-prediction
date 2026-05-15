@@ -97,19 +97,19 @@ The system prioritizes high recall to minimize missed equipment failures.
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard_main.png)
+![Dashboard](screenshots/dashboard_main.png.png)
 
 ---
 
 ## SHAP Explainability
 
-![SHAP](screenshots/shap_explainability.png)
+![SHAP](screenshots/shap_explainability.png.png)
 
 ---
 
 ## Historical Trend Monitoring
 
-![Trend Monitoring](screenshots/trend_monitoring.png)
+![Trend Monitoring](screenshots/trend_monitoring.png.png)
 
 ---
 
